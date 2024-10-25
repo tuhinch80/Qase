@@ -1,0 +1,20 @@
+{
+  "name": "tuhin.choudhary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright-qase-reporter": "^2.0.16"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.9"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
